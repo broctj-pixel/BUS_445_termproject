@@ -20,3 +20,28 @@ This project applies Social Network Analysis (SNA) to the Krackhardt High-Tech d
 2. Install the required dependencies by running:
    ```bash
    pip install -r requirements.txt
+
+
+## Analytical Methodology
+
+Our project uses Python and NetworkX to analyze
+the organizational advice network in the
+Krackhardt High-Tech Managers Dataset.
+
+We will examine four main network metrics:
+
+1. Network Density: Measures how connected
+   the overall network is.
+2. Degree Centrality: Identifies managers
+   with the most direct connections.
+3. Betweenness Centrality: Identifies managers
+   who connect different parts of the organization.
+4. Community Structure: Helps identify groups
+   of managers who are more closely connected.
+
+These metrics will help us identify influential
+managers and examine how organizational
+relationships could support AI adoption.
+Since the original dataset does not measure
+AI adoption directly, adoption status and
+sentiment will be simulated for the project.
