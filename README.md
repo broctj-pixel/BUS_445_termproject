@@ -45,3 +45,6 @@ relationships could support AI adoption.
 Since the original dataset does not measure
 AI adoption directly, adoption status and
 sentiment will be simulated for the project.
+
+## Real-World Significance
+Businesses are integrating AI tools into their daily operations at a much higher rate in todays world. Organizations can gain a better understanding of how managers and employees interact, how information is shared, and who might have the most say over the adoption of AI by using social network analysis. Businesses can identify possible gaps or resistance inside their organizations and improve training, communication, and implementation strategies by identifying these links. In fields like banking, healthcare, retail, and manufacturing, are adapting to new technologies making it crucial for improving productivity and business operations, these ultimately will be helpful to all industries that implemet it.
